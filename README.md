@@ -1,4 +1,4 @@
-### British software engineer living and working in Tokyo in eSports industry.
+### British software engineer living and working in Tokyo in the eSports industry.
 
 ##### I develop and maintain a bunch of Source Engine related parsers and tooling for Go projects for fun. I enjoy the pain I suppose...
 
