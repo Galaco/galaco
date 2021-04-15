@@ -2,8 +2,8 @@
 
 <p align="center">
  <img alt="Visitors" src="https://visitor-badge.laobi.icu/badge?page_id=Galaco"/>
- <br/>
- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=galaco&layout=compact&hide=html" alt="galaco" /></p>
- <br/>
- <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=galaco&show_icons=true" alt="galaco" /></p>
+ <br/><br/>
+ <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=galaco&layout=compact&hide=html" alt="galaco" />
+ <br/><br/>
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=galaco&show_icons=true" alt="galaco" />
 </p>
